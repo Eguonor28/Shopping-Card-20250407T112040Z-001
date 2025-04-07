@@ -103,11 +103,11 @@ function likeBag() {
   }
 }
 function TotalShoeCost() {
-  total.innerText = `${countShoe * 100}$`;
+  total.innerText = `${countShoe * 100} $`;
 }
 
 function TotalSockCost() {
-  total.innerText = `${countSock * 20}$`;
+  total.innerText = `${countSock * 20} $`;
 }
 
 function TotalBagCost() {
